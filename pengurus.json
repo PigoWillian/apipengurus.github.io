@@ -1,0 +1,46 @@
+{
+  "status": true,
+  "message": "Data pengurus berhasil ditemukan",
+  "data": [
+    {
+      "id": 1,
+      "nama": "Aulia Febrial Fatwa",
+      "jabatan": "SEKRETARIS JENDERAL",
+      "foto": "https://www.abupi.or.id/wp-content/uploads/2023/02/Liana-Trisnawati-218x300.jpg",
+      "created_at": "2025-02-11T04:39:38.000000Z",
+      "updated_at": "2025-02-11T04:39:38.000000Z"
+    },
+    {
+      "id": 2,
+      "nama": "Liana Trisnawati",
+      "jabatan": "WAKIL KETUA UMUM BIDANG ORGANISASI & REGULASI",
+      "foto": "https://www.abupi.or.id/wp-content/uploads/2023/02/Ariyanto-Purboyo.jpg",
+      "created_at": "2025-02-11T04:39:38.000000Z",
+      "updated_at": "2025-02-11T04:39:38.000000Z"
+    },
+    {
+      "id": 3,
+      "nama": "Ariyanto Purboyo",
+      "jabatan": "WAKIL KETUA UMUM BIDANG HUBUNGAN PEMERINTAH & LEMBAGA",
+      "foto": "https://www.abupi.or.id/wp-content/uploads/2023/02/Ayi-Pryana.jpg",
+      "created_at": "2025-02-11T04:39:38.000000Z",
+      "updated_at": "2025-02-11T04:39:38.000000Z"
+    },
+    {
+      "id": 4,
+      "nama": "Ayi Paryana",
+      "jabatan": "WAKIL KETUA UMUM BIDANG PENGEMBANGAN SDM & KEANGGOTAAN",
+      "foto": "https://www.abupi.or.id/wp-content/uploads/2023/02/David-Rahadian.jpg",
+      "created_at": "2025-02-11T04:39:38.000000Z",
+      "updated_at": "2025-02-11T04:39:38.000000Z"
+    },
+    {
+      "id": 5,
+      "nama": "David Rahadian",
+      "jabatan": "WAKIL KETUA UMUM BIDANG HUBUNGAN KEMITRAAN",
+      "foto": "https://www.abupi.or.id/wp-content/uploads/2023/02/Sony-Sidjaja.jpg",
+      "created_at": "2025-02-11T04:39:38.000000Z",
+      "updated_at": "2025-02-11T04:39:38.000000Z"
+    }
+  ]
+}
